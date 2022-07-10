@@ -6,6 +6,7 @@
 
   (paper "A4")
   (title_block
+    (title "Thel \"VX-Line\" preamp (version 2021)")
     (comment 1 "PCB is not the original -> but like the original = exactly the same component placement")
     (comment 2 "1 layer PCB / all THT components")
   )
