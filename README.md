@@ -25,6 +25,7 @@ https://web.archive.org/web/20160325140821/http://thel-audioworld.de/module/VXD/
 * operating voltage min./max.: ±9V .. ±35V (optimum: ±18V .. ±24V)
   
 https://web.archive.org/web/20170523101631/http://www.thel-audioworld.de/module/VX-Line/vx-line.htm  
+https://web.archive.org/web/20210514101836/http://thel-audioworld.de/module/VX-Line/vx-line.htm  
   
 2 different generations of PCB:  
 * 2017 - 2020
