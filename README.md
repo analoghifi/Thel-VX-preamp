@@ -3,13 +3,25 @@
 * single ended input
 * single ended output
 * AC coupled input (with film/foil input cap)
-* MOSFET Class-A output (very low-impedance output / is able to drive 1W @ 8Ω)
+* MOSFET Class-A output
+* very low-impedance output / is able to drive 1W @ 8Ω
 * adjustable gain (16 steps)
-* usable as headphone amp as well
+* usable as a "high-end" headphone amp as well
   
 https://web.archive.org/web/20070809231533/http://www.thel-audioworld.de/module/VXD/vxd.htm  
 https://web.archive.org/web/20160325140821/http://thel-audioworld.de/module/VXD/vxd.htm  
+<hr>  
+
 ### "VX-Line" (from 03/2017):  
+* OP-Amp input stage (LME 49720)
+* balanced input
+* single ended output
+* DC coupled
+* MOSFET Class-A output (itegrated into the OP-Amps feedback loop)
+* very low-impedance output / is able to drive 1W @ 8Ω
+* adjustable gain (5 steps)
+* usable as a "high-end" headphone amp as well
+  
 https://web.archive.org/web/20170523101631/http://www.thel-audioworld.de/module/VX-Line/vx-line.htm  
   
 2 different generations of PCB:  
