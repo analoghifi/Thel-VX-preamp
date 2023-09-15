@@ -9,7 +9,7 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 ----  
 
 ### remarks:  
-#### U1,U2,U3,U4:  
+#### U1:  
 instead of [LME49720](https://www2.mouser.com/ProductDetail/Texas-Instruments/LME49720NA-NOPB?qs=7lkVKPoqpbYtIqwyg5iDaA%3D%3D) you can use [LM4562](https://www2.mouser.com/ProductDetail/Texas-Instruments/LM4562NA-NOPB?qs=QbsRYf82W3Gc2w4DLq%252BZjw%3D%3D) (both Texas Instruments),  
 these two are 100% identical (even regarding their inner guts).
   
