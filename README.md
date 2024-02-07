@@ -30,8 +30,9 @@ https://web.archive.org/web/20210514101836/http://thel-audioworld.de/module/VX-L
 2 different generations of PCB:  
 * 2017 - 2020
 * from 2021
+  
 ----  
-Kicad projects in this repo:  
+### Kicad projects in this repo:  
 * [VX-Line_2021__original](https://github.com/analoghifi/Thel-VX-preamp/tree/main/VX-Line/hardware/KiCad/VX-Line_2021__original) | state: initial release v1.01 | like the original, 1-layer, THT
 * [VX-D_original](https://github.com/analoghifi/Thel-VX-preamp/tree/main/VX-D/hardware/KiCad/VX-D_original) | state: comin soon... | like the original, 1-layer, THT
 
