@@ -34,6 +34,6 @@ https://web.archive.org/web/20210514101836/http://thel-audioworld.de/module/VX-L
 ----  
 ### Kicad projects in this repo:  
 * [VX-Line_2021__original](https://github.com/analoghifi/Thel-VX-preamp/tree/main/VX-Line/hardware/KiCad/VX-Line_2021__original) | state: initial release v1.01 | like the original, 1-layer, THT
-* [VX-D_original](https://github.com/analoghifi/Thel-VX-preamp/tree/main/VX-D/hardware/KiCad/VX-D_original) | state: comin soon... | like the original, 1-layer, THT
+* [VX-D_original](https://github.com/analoghifi/Thel-VX-preamp/tree/main/VX-D/hardware/KiCad/VX-D_original) | state: coming soon... | like the original, 1-layer, THT
 
 ----
